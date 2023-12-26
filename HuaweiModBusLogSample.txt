@@ -1,0 +1,63 @@
+The following is a log of the Huawei BoostLiModbusTool V1.7.0T.exe  communicating with an ESM-48100B3 Battery.
+[INFO]: Get Address No.
+[INFO]: WritePort:_d6_03_00_00_00_01_96_2d
+[INFO]: ReadPort:_d6_03_02_13_1d
+[INFO]: WritePort:_d7_03_00_00_00_01_97_fc
+[INFO]: Get LiBatt State
+[INFO]: Get LiBatt State
+[INFO]: Get setInfo State
+[INFO]: WritePort:_d6_10_10_00_00_06_0c_07_e7_00_0b_00_1b_00_10_00_04_00_05_6a_f8
+[INFO]: ReadPort:_d6_10_10_00_00_06_56_ec
+[INFO]: WritePort:_d6_03_10_06_00_01_72_ec
+[INFO]: ReadPort:_d6_03_02_00_00
+[INFO]: WritePort:_d6_03_11_11_00_01_c3_14
+[INFO]: ReadPort:_d6_03_02_10_e0
+[INFO]: WritePort:_d6_03_11_18_00_01_13_16
+[INFO]: ReadPort:_d6_03_02_00_00
+[INFO]: WritePort:_d6_03_10_0b_00_01_e3_2f
+[INFO]: ReadPort:_d6_03_02_03_fc
+[INFO]: WritePort:_d6_03_10_0d_00_01_03_2e
+[INFO]: ReadPort:_d6_03_02_03_fc
+[INFO]: WritePort:_d6_03_10_0f_00_01_a2_ee
+[INFO]: ReadPort:_d6_03_02_00_01
+[INFO]: WritePort:_d6_03_10_10_00_01_93_28
+[INFO]: ReadPort:_d6_03_02_00_01
+[INFO]: WritePort:_d6_03_11_10_00_01_92_d4
+[INFO]: ReadPort:_d6_03_02_00_00
+[INF0]:¶ÁÈ¡GPRS·¢ËÍµÄ¶ÌÐÅÖÐÐÄºÅÂë1130-1139 
+[INFO]: WritePort:_d6_03_11_30_00_0a_d2_d9
+[INFO]: ReadPort:_d6_03_14_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+[INF0]:¶ÁÈ¡GPRSÊÖ»úºÅÂë0x113A 
+[INFO]: WritePort:_d6_03_11_3a_00_0a_f2_db
+[INFO]: ReadPort:_d6_03_14_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+[INFO]: WritePort:_d6_03_11_44_00_0a_92_c3
+[INFO]: ReadPort:_d6_03_14_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+[INFO]: WritePort:_d6_03_11_19_00_01_42_d6
+[INFO]: ReadPort:_d6_03_02_00_00
+[INFO]: Get LiBatt State
+[INFO]: WritePort:_d6_03_00_00_00_06_d7_ef
+[INFO]: ReadPort:_d6_03_0c_13_1f_13_53_fd_42_00_53_00_64_00_1b
+[INFO]: WritePort:_d6_03_00_0a_00_01_b6_2f
+[INFO]: ReadPort:_d6_03_02_00_01
+[INFO]: WritePort:_d6_03_00_12_00_0f_b7_ec
+[INFO]: ReadPort:_d6_03_1e_00_19_00_19_00_19_00_18_00_18_00_18_00_18_00_1b_00_1b_00_1b_00_1b_00_16_00_16_00_16_00_16
+[INFO]: WritePort:_d6_03_01_0f_00_01_a7_d2
+[INFO]: ReadPort:_d6_03_02_00_0f
+[INFO]: WritePort:_d6_03_00_31_00_01_c7_e2
+[INFO]: ReadPort:_d6_03_02_ff_ff
+[INFO]: WritePort:_d6_03_00_22_00_0f_b7_e3
+[INFO]: ReadPort:_d6_03_1e_0c_df_0c_eb_0c_ec_0c_cd_0c_ca_0c_ed_0c_eb_0c_da_0c_ea_0c_d4_0c_eb_0c_ec_0c_eb_0c_ce_0c_ec
+[INFO]: WritePort:_d6_03_00_44_00_02_96_39
+[INFO]: ReadPort:_d6_03_04_00_00_5c_48
+[INFO]: WritePort:_d6_03_01_07_00_01_26_10
+[INFO]: ReadPort:_d6_03_02_00_64
+[INFO]: WritePort:_d6_03_01_01_00_01_c6_11
+[INFO]: ReadPort:_d6_03_02_01_0d
+[INFO]: WritePort:_d6_03_02_06_00_01_77_94
+[INFO]: ReadPort:_d6_03_02_fd_41
+[INFO]: WritePort:_d6_03_01_11_00_01_c7_d4
+[INFO]: ReadPort:_d6_03_02_00_01
+[INFO]: WritePort:_d6_03_02_11_00_0a_86_57
+[INFO]: ReadPort:_d6_03_14_45_58_32_30_35_30_30_32_34_30_33_34_ff_ff_ff_ff_ff_ff_ff_ff
+[INFO]: WritePort:_d6_03_10_00_00_06_d3_2f
+[INFO]: ReadPort:_d6_03_0c_07_e7_00_0b_00_1b_00_10_00_04_00_08

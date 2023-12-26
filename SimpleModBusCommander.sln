@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleModBusCommander", "SimpleModBusCommander.csproj", "{AD8EFDDE-85C6-4ECE-9A4B-35D6295862D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModbusLogger_Console", "ModbusLogger_Console\ModbusLogger_Console.csproj", "{A0795E7C-861E-4BF3-AF3B-65BD7D62EFC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModbusLogger_EpeverUI", "ModbusLogger_EpeverUI\ModbusLogger_EpeverUI.csproj", "{FE34B484-ABCC-467F-BC77-C621828C2BE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModbusLogger_HuaweiUI", "ModbusLogger_HuaweiUI\ModbusLogger_HuaweiUI.csproj", "{C7D0628B-1EAE-4A65-B0DC-5A8454FD4420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8EFDDE-85C6-4ECE-9A4B-35D6295862D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8EFDDE-85C6-4ECE-9A4B-35D6295862D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8EFDDE-85C6-4ECE-9A4B-35D6295862D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8EFDDE-85C6-4ECE-9A4B-35D6295862D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0795E7C-861E-4BF3-AF3B-65BD7D62EFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0795E7C-861E-4BF3-AF3B-65BD7D62EFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0795E7C-861E-4BF3-AF3B-65BD7D62EFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0795E7C-861E-4BF3-AF3B-65BD7D62EFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE34B484-ABCC-467F-BC77-C621828C2BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE34B484-ABCC-467F-BC77-C621828C2BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE34B484-ABCC-467F-BC77-C621828C2BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE34B484-ABCC-467F-BC77-C621828C2BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D0628B-1EAE-4A65-B0DC-5A8454FD4420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D0628B-1EAE-4A65-B0DC-5A8454FD4420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D0628B-1EAE-4A65-B0DC-5A8454FD4420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D0628B-1EAE-4A65-B0DC-5A8454FD4420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D892E5CF-71EF-4106-97FB-38A3FD80CB48}
+	EndGlobalSection
+EndGlobal

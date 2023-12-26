@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="old\**" />
+    <EmbeddedResource Remove="old\**" />
+    <None Remove="old\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Form1 - Copy.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ScottPlot" Version="4.1.69" />
+    <PackageReference Include="ScottPlot.WinForms" Version="4.1.69" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleModBusCommander.csproj" />
+  </ItemGroup>
+
+</Project>
